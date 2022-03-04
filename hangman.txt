@@ -1,0 +1,20 @@
+Guess the word! HINT: word is a name of a fruit
+_ _ _ _ _ 
+
+Enter a letter to guess: 
+a
+a _ _ _ _ 
+Enter a letter to guess: 
+p
+a p p _ _ 
+Enter a letter to guess: 
+l
+a p p l _ 
+Enter a letter to guess: 
+e
+The word is:  apple
+Congratulations, You won!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
